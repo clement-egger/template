@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Clement EGGER
+* Vincent Mary
+* Pawel Czech
 
 
